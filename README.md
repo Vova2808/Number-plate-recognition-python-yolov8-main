@@ -18,11 +18,9 @@
 Обученная модель доступна в моем [Patreon](https://www.patreon.com/ComputerVisionEngineer).
 
 ## dependencies
-
 Модуль сортировки необходимо загрузить с сайта [this repository](https://github.com/abewley/sort) как упоминалось в [video](https://youtu.be/fyJB1t0o0ms?t=1120).
 
 ## Ссыдка на видео для обучения
-
 https://drive.google.com/file/d/1nqKdFp5fNgAKjh1g7Qfp8RGyvnRstRpt/view?usp=sharing
 
 ###
